@@ -1,7 +1,7 @@
 # Campus Financial Aid Modeling
 
 ## Project Overview
-This project is documented in Chinese and develops a data-driven framework to improve the accuracy and fairness of financial aid allocation in universities. Using campus card transaction data, we aim to identify students with the greatest financial need and design equitable aid distribution strategies.
+This project is documented **in Chinese** and develops a data-driven framework to improve the accuracy and fairness of financial aid allocation in universities. Using campus card transaction data, we aim to identify students with the greatest financial need and design equitable aid distribution strategies.
 
 Key tasks include:
 
